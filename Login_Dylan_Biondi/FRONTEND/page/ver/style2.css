@@ -1,0 +1,24 @@
+body {
+    margin:0;
+}
+
+.navegacion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    box-sizing: border-box;
+    background-color: #1c96c5;
+    height: 100px;
+}
+
+a{
+    margin:50px;
+    text-decoration: none;
+}
+
+
+.imagen {
+    background-color: blue;
+
+}
